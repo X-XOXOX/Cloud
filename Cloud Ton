@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+     <html>
+     <head>
+         <title>Image Repository</title>
+     </head>
+     <body>
+         <img src="256.png" alt="Cloud Ton">
+     </body>
+     </html>
